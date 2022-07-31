@@ -20,7 +20,7 @@
       -language: bash
       -requirements: bash shell.
       -thanks: the universe.
-      -coded by: Robin Trigon | 3rr0r-404
+      -coded by: Robin Trigon | 3rr0r-404 , blackarch , Felix Yan
       -note: It's my personal version.
     
 -
