@@ -1,2 +1,2 @@
 # bashrc
-my bashrc file.
+My favorite bashrc file with my own customizetion.
