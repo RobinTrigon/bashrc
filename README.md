@@ -18,12 +18,12 @@
 
 # bashrc
 
-<p align="center"><img alt="https://raw.githubusercontent.com/3rr0r-4O4/SecFuzzer/main/dirfuzzer.png" width="700px" src="https://raw.githubusercontent.com/RobinTrigon/bashrc/main/withoutuandhost.png" /></p>
+<p align="center"><img alt="https://raw.githubusercontent.com/RobinTrigon/bashrc/main/withoutuandhost.png" width="700px" src="https://raw.githubusercontent.com/RobinTrigon/bashrc/main/withoutuandhost.png" /></p>
 
 # bash bashrc
 
-<p align="center"><img alt="https://raw.githubusercontent.com/3rr0r-4O4/SecFuzzer/main/dirfuzzer.png" width="700px" src="https://raw.githubusercontent.com/RobinTrigon/bashrc/main/withhost.png" /></p>
+<p align="center"><img alt="https://raw.githubusercontent.com/RobinTrigon/bashrc/main/withhost.pn" width="700px" src="https://raw.githubusercontent.com/RobinTrigon/bashrc/main/withhost.png" /></p>
 
 # .bashrc
-<p align="center"><img alt="https://raw.githubusercontent.com/3rr0r-4O4/SecFuzzer/main/dirfuzzer.png" width="700px" src="https://raw.githubusercontent.com/RobinTrigon/bashrc/main/blackarch.png" /></p>
+<p align="center"><img alt="https://raw.githubusercontent.com/RobinTrigon/bashrc/main/blackarch.png" width="700px" src="https://raw.githubusercontent.com/RobinTrigon/bashrc/main/blackarch.png" /></p>
 
